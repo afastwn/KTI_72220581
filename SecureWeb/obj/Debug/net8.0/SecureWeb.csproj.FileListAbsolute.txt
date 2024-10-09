@@ -126,3 +126,4 @@ D:\SI S1 Andreas Setiawan\SEMESTER 5\Keamanan TI\KTI\SecureWeb\bin\Debug\net8.0\
 D:\SI S1 Andreas Setiawan\SEMESTER 5\Keamanan TI\KTI\SecureWeb\obj\Debug\net8.0\SecureWeb.csproj.AssemblyReference.cache
 D:\SI S1 Andreas Setiawan\SEMESTER 5\Keamanan TI\KTI\SecureWeb\obj\Debug\net8.0\SecureWeb.csproj.Up2Date
 D:\SI S1 Andreas Setiawan\SEMESTER 5\Keamanan TI\KTI\SecureWeb\obj\Debug\net8.0\SecureWeb.sourcelink.json
+D:\SI S1 Andreas Setiawan\SEMESTER 5\Keamanan TI\KTI\SecureWeb\bin\Debug\net8.0\BCrypt.Net-Next.dll
